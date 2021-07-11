@@ -1,3 +1,3 @@
 # Affirmations-Discord-Bot
 Simple discord affirmations bot
-[web](https://affirmations-discord-bot.nclsbayona.repl.co/)
+[web](https://replit.com/@nclsbayona/Affirmations-Discord-Bot)
